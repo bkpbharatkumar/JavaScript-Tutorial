@@ -1,0 +1,2 @@
+Stack - Used in Primitive data Type
+Heap - Used in Non-Primitive data Type

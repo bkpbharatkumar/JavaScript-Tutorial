@@ -1,0 +1,6 @@
+Primitive Data Type
+7 Types : String, Number, Boolean, null, undefined, Symbol, BigInt
+
+Reference Type (Non-Primitive) : Array, Object, Functions
+
+JavaScript Dynamically
